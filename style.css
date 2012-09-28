@@ -1,0 +1,23 @@
+* {
+	font-size: 10pt;
+	font-family: Arial;
+}
+
+.mainBox {
+	margin: 5em auto;
+	width: 500px;
+}
+
+.url {
+	padding: 10px 6px 10px 6px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	width: 300px;
+}
+
+.urlContainer {
+	border: 1px dotted #ddd;
+	padding:10px;
+	margin-top: 10px;	
+}
